@@ -584,10 +584,10 @@ body:after {
     .site-blocks-cover .intro-text {
       margin-top: 30%; } }
   .site-blocks-cover h1 {
-    font-size: 4rem;
+    font-size: 3rem;
     color: #000;
-    font-weight: 900;
-    text-transform: uppercase; }
+    font-weight: 800;
+   }
     @media (max-width: 991.98px) {
       .site-blocks-cover h1 {
         font-size: 2rem; } }
@@ -1783,8 +1783,11 @@ figure figcaption {
 
 /* New For Dogger */
 .heading-section h2 {
-  text-transform: uppercase;
   font-weight: 900; }
+
+.heading-margin h2{
+  margin-top: 50px;
+}
 
 .hover-1-wrap .hover-1 {
   position: relative;
