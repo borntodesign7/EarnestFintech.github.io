@@ -2097,3 +2097,6 @@ figure figcaption {
     .single-text .owl-dots .owl-dot.active > span {
       width: 20px;
       background-color: #fff; }
+.rounded-image{
+  border-radius: 10px;
+}
